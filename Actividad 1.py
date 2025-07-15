@@ -6,7 +6,7 @@ if a%2==0:
     print("Gracias por usar el programa")
 elif a%3==0:
     print("Su numero es impar")
-
+    print("Gracias por usar el programa")
 else:
     print("Numero invalido ")
 
